@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Puzzles", "Puzzles", "{6AF70B98-144A-4BB2-92A1-91DC01E4A97A}"
+	ProjectSection(SolutionItems) = preProject
+		Puzzles\puzzle1.sudoku = Puzzles\puzzle1.sudoku
+		Puzzles\puzzle10.sudoku = Puzzles\puzzle10.sudoku
+		Puzzles\puzzle11.sudoku = Puzzles\puzzle11.sudoku
+		Puzzles\puzzle2.sudoku = Puzzles\puzzle2.sudoku
+		Puzzles\puzzle3.sudoku = Puzzles\puzzle3.sudoku
+		Puzzles\puzzle4.sudoku = Puzzles\puzzle4.sudoku
+		Puzzles\puzzle5.sudoku = Puzzles\puzzle5.sudoku
+		Puzzles\puzzle6.sudoku = Puzzles\puzzle6.sudoku
+		Puzzles\puzzle7.sudoku = Puzzles\puzzle7.sudoku
+		Puzzles\puzzle8.sudoku = Puzzles\puzzle8.sudoku
+		Puzzles\puzzle9.sudoku = Puzzles\puzzle9.sudoku
+		Puzzles\puzzles.rsp = Puzzles\puzzles.rsp
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{D76193C2-7119-48F0-8E62-769F04D3C759}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tkbgitvstfat11:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Sudoku\\Sudoku.csproj
+		SccProjectName1 = Sudoku
+		SccLocalPath1 = Sudoku
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76193C2-7119-48F0-8E62-769F04D3C759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76193C2-7119-48F0-8E62-769F04D3C759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76193C2-7119-48F0-8E62-769F04D3C759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76193C2-7119-48F0-8E62-769F04D3C759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
